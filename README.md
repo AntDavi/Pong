@@ -1,8 +1,3 @@
-
-This repository is mainly for me to share small personal projects in languages ​​and with technologies that I am studying.
-
-Just kidding.
-
 I made this Pong clone in HTML5 and JavaScript just to start studying these languages.
 
 Hope you like it.
